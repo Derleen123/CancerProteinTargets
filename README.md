@@ -1,4 +1,4 @@
-# Proteins: Prime Drug Targets in Cancer Treatment
+# Proteins: Drug Targets in Cancer Treatment
 
 Proteins are important targets for cancer drugs because proteins are implicated in nearly every cellular process and disease mechanism. Many genetic mutations ultimately cause cancer by altering protein function and, therefore, the aberrant protein becomes an ideal target for the treatment of cancer. (Kumar et al., 2021).
 
