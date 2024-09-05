@@ -6,7 +6,7 @@ Several therapies target these aberrant proteins so as to address the molecular 
 
 1. **Kinases** - Enzymes involved in cell signaling and their activity is higher in cancerous cells than in normal cells. An example includes imatinib works by targeting the BCR-ABL fusion protein in chronic myeloid leukemia and successfully inhibits the leukemic cells from uncontrollable proliferation (Ventura et al., 2006).
 
-2. **Growth Factor Receptors** - These proteins are highly expressed in cancers, and the most targeted one is Epidermal Growth Factor Receptor (EGFR). Drugs such as erlotinib targets these receptors to slow growth for such tumors (Li et al., 2023; Zubair & Bandyopadhyay, 2023).
+2. **Growth Factor Receptors** - These proteins are highly expressed in cancers, and the most targeted one is Epidermal Growth Factor Receptor (EGFR). Drugs such as erlotinib targets these receptors to slow growth for such tumors (Li et al., 2023).
 
 3. **Apoptosis Regulators**: These are proteins that prevent programmed cell death. Drugs such as venetoclax induce the death of cancer cells by inhibiting these proteins (Ventura et al., 2006).
 
@@ -14,9 +14,9 @@ Several therapies target these aberrant proteins so as to address the molecular 
 
 ## From Target Identification to Drug Development
 
-The exploitation of proteins as drug targets is done in several ways:
+The use of proteins as drug targets is done in several ways:
 
-1. **Target Identification**: With the help genomics and proteomics, numerous proteins are identified as being differentially expressed or mutated in cancer cells (Schenone et al., 2013; Tabana et al., 2023).
+1. **Target Identification**: With the help genomics and proteomics, numerous proteins are identified as being differentially expressed or mutated in cancer cells (Schenone et al., 2013).
 
 2. **Target Validation**: Application of technologies like gene knockdown or overexpression studies confirms the contribution of the identified protein in cancer biology (Hughes et al., 2011).
 
@@ -30,7 +30,7 @@ However recent advances are expanding the horizons of protein-targeting drug dis
 
 1. **Structural Biology Advances**: Techniques such as cryoelectron microscopy, together with computational methods like AlphaFold, have provided insight into protein structure, enabling precise design of drugs (Callaway et al., 2020).
 
-2. **Novel Approaches**: The use of Proteolysis Targeting Chimeras, or PROTACs, to expand the range of druggable proteins to previously unreachable targets (Sun et al., 2019; Riching et al., 2019).
+2. **Novel Approaches**: The useof Proteolysis Targeting Chimeras, or PROTACs, to expand the range of druggable proteins to previously unreachable targets (Sun et al., 2019;).
 
 ## Conclusion
 
@@ -44,13 +44,10 @@ Protein-targeted therapies lead cancer drug discovery. This approach enables tai
 4. Jin, J., Wu, X., Yin, J., Li, M., Shen, J., Li, J., ... & Qu, L. (2019). Identification of genetic mutations in cancer: challenge and opportunity in the new era of targeted therapy. Frontiers in oncology, 9, 263.
 5. Ventura, J. J., & Nebreda, Á. R. (2006). Protein kinases and phosphatases as therapeutic targets in cancer. Clinical and Translational Oncology, 8(3), 153-160.
 6. Li, Y., Mao, T., Wang, J., Zheng, H., Hu, Z., Cao, P., ... & Lin, F. (2023). Toward the next generation EGFR inhibitors: an overview of osimertinib resistance mediated by EGFR mutations in non-small cell lung cancer. Cell Communication and Signaling, 21(1), 71.
-7. Zubair, T., & Bandyopadhyay, D. (2023). Small molecule EGFR inhibitors as anti-cancer agents: discovery, mechanisms of action, and opportunities. International Journal of Molecular Sciences, 24(3), 2651.
-8. Richard, I. A., Burgess, J. T., O'Byrne, K. J., & Bolderson, E. (2022). Beyond PARP1: the potential of other members of the poly (ADP-Ribose) polymerase family in DNA repair and cancer therapeutics. Frontiers in Cell and Developmental Biology, 9, 801200.
-9. Bellio, C., DiGloria, C., Foster, R., James, K., Konstantinopoulos, P. A., Growdon, W. B., & Rueda, B. R. (2019). PARP inhibition induces enrichment of DNA repair–proficient CD133 and CD117 positive ovarian cancer stem cells. Molecular Cancer Research, 17(2), 431-445.
-13. Schenone, M., Dančík, V., Wagner, B. K., & Clemons, P. A. (2013). Target identification and mechanism of action in chemical biology and drug discovery. Nature chemical biology, 9(4), 232-240.
-14. Tabana, Y., Babu, D., Fahlman, R., Siraki, A. G., & Barakat, K. (2023). Target identification of small molecules: an overview of the current applications in drug discovery. BMC biotechnology, 23(1), 44.
-15. Hughes, J. P., Rees, S., Kalindjian, S. B., & Philpott, K. L. (2011). Principles of early drug discovery. British journal of pharmacology, 162(6), 1239-1249.
-16. Shen, J., Ju, Z., Zhao, W., Wang, L., Peng, Y., Ge, Z., ... & Peng, G. (2018). ARID1A deficiency promotes mutability and potentiates therapeutic antitumor immunity unleashed by immune checkpoint blockade. Nature medicine, 24(5), 556-562.
-18. Callaway, E. (2020). Revolutionary cryo-EM is taking over structural biology. Nature, 578(7794), 201-202.
-20. Sun, X., Gao, H., Yang, Y., He, M., Wu, Y., Song, Y., ... & Rao, Y. (2019). PROTACs: great opportunities for academia and industry. Signal transduction and targeted therapy, 4(1), 64.
-21. Riching, K. M., Mahan, S., Corona, C. R., McDougall, M., Vasta, J. D., Robers, M. B., ... & Daniels, D. L. (2018). Quantitative live-cell kinetic degradation and mechanistic profiling of PROTAC mode of action. ACS chemical biology, 13(9), 2758-2770.
+7. Richard, I. A., Burgess, J. T., O'Byrne, K. J., & Bolderson, E. (2022). Beyond PARP1: the potential of other members of the poly (ADP-Ribose) polymerase family in DNA repair and cancer therapeutics. Frontiers in Cell and Developmental Biology, 9, 801200.
+8. Bellio, C., DiGloria, C., Foster, R., James, K., Konstantinopoulos, P. A., Growdon, W. B., & Rueda, B. R. (2019). PARP inhibition induces enrichment of DNA repair–proficient CD133 and CD117 positive ovarian cancer stem cells. Molecular Cancer Research, 17(2), 431-445.
+9. Schenone, M., Dančík, V., Wagner, B. K., & Clemons, P. A. (2013). Target identification and mechanism of action in chemical biology and drug discovery. Nature chemical biology, 9(4), 232-240.
+10. Hughes, J. P., Rees, S., Kalindjian, S. B., & Philpott, K. L. (2011). Principles of early drug discovery. British journal of pharmacology, 162(6), 1239-1249.
+11. Shen, J., Ju, Z., Zhao, W., Wang, L., Peng, Y., Ge, Z., ... & Peng, G. (2018). ARID1A deficiency promotes mutability and potentiates therapeutic antitumor immunity unleashed by immune checkpoint blockade. Nature medicine, 24(5), 556-562.
+12. Callaway, E. (2020). Revolutionary cryo-EM is taking over structural biology. Nature, 578(7794), 201-202.
+13. Sun, X., Gao, H., Yang, Y., He, M., Wu, Y., Song, Y., ... & Rao, Y. (2019). PROTACs: great opportunities for academia and industry. Signal transduction and targeted therapy, 4(1), 64.
